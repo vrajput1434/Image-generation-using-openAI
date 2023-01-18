@@ -5,7 +5,7 @@ import streamlit as st
 
 
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 def generate_image(image_description):
 
